@@ -1,0 +1,19 @@
+{
+    "name": "nslauncher-docs",
+    "version": "0.0.1",
+    "description": "Documentation for NSLauncher",
+    "main": "index.js",
+    "authors": {
+        "name": "",
+        "email": ""
+    },
+    "repository": "https://github.com/team-ns/launcher-docs",
+    "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^1.5.3"
+    }
+}
